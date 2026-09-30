@@ -1,0 +1,25 @@
+{
+  "bandcamp": {
+    "background": "#bccfd7",
+    "text": "#23303a",
+    "link": "#485762",
+    "contrast": {
+      "text": 8.4,
+      "link": 4.6
+    }
+  },
+  "palette": [
+    {
+      "hex": "#bccfd7",
+      "area": 47.7
+    },
+    {
+      "hex": "#2f414e",
+      "area": 45.7
+    },
+    {
+      "hex": "#7b96a9",
+      "area": 6.6
+    }
+  ]
+}
