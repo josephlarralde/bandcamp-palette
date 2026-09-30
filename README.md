@@ -5,7 +5,7 @@ Extracts the main colors of an image and suggests three colors for a Bandcamp pa
 ## Setup
 
 ```sh
-git clone <this repo> bandcamp-palette
+git clone git@github.com:josephlarralde/bandcamp-palette.git bandcamp-palette
 cd bandcamp-palette
 npm install
 ```

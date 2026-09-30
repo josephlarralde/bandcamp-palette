@@ -13,6 +13,10 @@
   "keywords": ["bandcamp", "palette", "colors", "extract-colors"],
   "author": "Joseph Larralde",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephlarralde/bandcamp-palette.git"
+  },
   "dependencies": {
     "extract-colors": "^4.2.1",
     "get-pixels": "^3.3.3"
