@@ -1,0 +1,20 @@
+{
+  "name": "bandcamp-palette",
+  "version": "1.0.0",
+  "description": "Suggests Bandcamp background, text and link colors from an image",
+  "type": "module",
+  "bin": {
+    "bandcamp-palette": "palette.js"
+  },
+  "files": [
+    "palette.js",
+    "preview.js"
+  ],
+  "keywords": ["bandcamp", "palette", "colors", "extract-colors"],
+  "author": "Joseph Larralde",
+  "license": "MIT",
+  "dependencies": {
+    "extract-colors": "^4.2.1",
+    "get-pixels": "^3.3.3"
+  }
+}
